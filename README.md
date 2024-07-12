@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aakriti
 
-<!--
-**aakriti1204/aakriti1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Aakriti, a passionate BTech student with a keen interest in technology and software development.<br>
 
-Here are some ideas to get you started:
+🚀 I'm always exploring new technologies and working on exciting projects to improve my skills.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My areas of interest include:
+
+<ul>
+<li>Data Structures and Algorithms (DSA)</li>
+<li>Web Development</li>
+<li>Artificial Intelligence and Machine Learning</li>
+</ul>
+<br>
+🌟 I'm enthusiastic about contributing to open source projects and collaborating with others in the tech community.<br>
+
+📚 Currently, I'm learning and growing my knowledge in:
+<ul>
+<li>Python, Java, and JavaScript</li>
+<li>Frameworks like React and Node.js</li>
+<li>Machine Learning libraries like TensorFlow and PyTorch</li>
+</ul>
+<br>
+🔗 Let's connect!
+<ul>
+<li><a href="https://www.linkedin.com/in/aakriti-saxena-16029122a/">LinkedIn</a></li>
+<li><a href="https://x.com/Aakriti09596865">Twitter</a></li>
+<li><a href="https://www.instagram.com/1204_aakriti/">Instagram</a></li>
+<li><a href="https://medium.com/@aakriti041201">Medium</a></li>
+</ul>
