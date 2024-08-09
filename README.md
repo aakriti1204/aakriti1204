@@ -25,6 +25,6 @@
 <ul>
 <li><a href="https://www.linkedin.com/in/aakriti-saxena-16029122a/">LinkedIn</a></li>
 <li><a href="https://x.com/Aakriti09596865">Twitter</a></li>
-<li><a href="https://www.instagram.com/1204_aakriti/">Instagram</a></li>
+<li><a href="https://www.instagram.com/_aakritisaxena/">Instagram</a></li>
 <li><a href="https://medium.com/@aakriti041201">Medium</a></li>
 </ul>
